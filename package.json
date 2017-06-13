@@ -1,0 +1,28 @@
+{
+  "name": "cordova-plugin-mbtiles",
+  "version": "1.0.0",
+  "description": "Native interface to MBTiles for PhoneGap/Cordova",
+  "cordova": {
+    "id": "cordova-plugin-mbtiles",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keyz182/cordova-plugin-mbtiles.git"
+  },
+  "keywords": [
+    "mbtiles",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "various",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/keyz182/cordova-plugin-mbtiles/issues"
+  },
+  "homepage": "https://github.com/keyz182/cordova-plugin-mbtiles"
+}
